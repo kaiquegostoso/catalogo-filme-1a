@@ -8,5 +8,13 @@ header {
     border-bottom: solid 2px black;
     padding: 20px;
     font-size: 32px;
-    
+    color: azure;
 }
+
+.chamada {
+    background: rgb(196, 196, 247);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+} 
+ 
